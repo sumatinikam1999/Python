@@ -244,7 +244,7 @@ a-z
 
 ---
 
-### 7.1 Keywords
+### 1 Keywords
 
 **Definition:**
 
@@ -263,7 +263,7 @@ if
 
 ---
 
-### 7.2 Identifier
+### 2 Identifier
 
 **Definition:**
 
